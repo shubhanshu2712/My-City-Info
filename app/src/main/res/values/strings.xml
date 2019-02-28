@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">My CIty Info</string>
+    <string name="app_name">My City Info</string>
+    <string name="agartala">Agartala</string>
+    <string name="guntur">Guntur</string>
+    <string name="lucknow">Lucknow</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_pasword">Confirm Pasword</string>
 </resources>
