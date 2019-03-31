@@ -20,6 +20,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     private EditText etpsw;
     private Button loginbtn;
     private FirebaseAuth firebaseAuth;
+    private Button signup;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,8 +31,10 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         etpsw=findViewById(R.id.editText4);
         loginbtn=findViewById(R.id.button5);
         firebaseAuth=FirebaseAuth.getInstance();
-
+        signup=findViewById(R.id.button);
         loginbtn.setOnClickListener(this);
+        signup.setOnClickListener(this);
+
     }
     public void userlogin(){
         String eml=etemail.getText().toString().trim();
@@ -55,6 +58,10 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     public void onClick(View v) {
         if(v == loginbtn){
             userlogin();
+        }
+        if(v == signup){
+            Intent i=new Intent(this,SignupActivity.class);
+            startActivity(i);
         }
     }
 }
