@@ -10,4 +10,19 @@
     <string name="enter_email_id">Enter Email ID</string>
     <string name="enter_password">Enter Password</string>
     <string name="confirm_pasword">Confirm Pasword</string>
+
+    <string-array name="header_titles">
+        <item>Hospitals</item>
+        <item>Schools</item>
+    </string-array>
+
+    <string-array name="child_hospital">
+        <item>Igm Hospital</item>
+        <item>ILS Hospital</item>
+    </string-array>
+
+    <string-array name="child_schools">
+        <item>BTVM</item>
+        <item>SKM</item>
+    </string-array>
 </resources>
