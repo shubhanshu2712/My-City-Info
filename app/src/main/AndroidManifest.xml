@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_foreground"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Agartala"></activity>
+        <activity android:name=".Guntur"></activity>
+        <activity android:name=".Lucknow" />
+        <activity android:name=".Agartala" />
         <activity android:name=".SignupActivity" />
         <activity android:name=".LoginActivity">
             <intent-filter>

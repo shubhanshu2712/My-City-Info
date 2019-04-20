@@ -8,14 +8,14 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class Agartala extends AppCompatActivity {
+public class Guntur extends AppCompatActivity {
     private ExpandableListView expandableListView;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_agartala);
+        setContentView(R.layout.activity_guntur);
 
         expandableListView = findViewById(R.id.expandablelistview);
 
@@ -30,12 +30,12 @@ public class Agartala extends AppCompatActivity {
 
         HashMap<String,List<String>> Childlist = new HashMap<String, List<String>>();
         String heading_items[] = getResources().getStringArray(R.array.header_titles);
-        String l1[] = getResources().getStringArray(R.array.agartala_hospital);
-        String l2[] = getResources().getStringArray(R.array.agartala_schools);
-        String l3[] = getResources().getStringArray(R.array.agartala_police);
-        String l4[] = getResources().getStringArray(R.array.agartala_fire);
-        String l5[] = getResources().getStringArray(R.array.agartala_gas);
-        String l6[] = getResources().getStringArray(R.array.agartala_entertainment);
+        String l1[] = getResources().getStringArray(R.array.guntur_hospital);
+        String l2[] = getResources().getStringArray(R.array.guntur_schools);
+        String l3[] = getResources().getStringArray(R.array.guntur_police);
+        String l4[] = getResources().getStringArray(R.array.guntur_fire);
+        String l5[] = getResources().getStringArray(R.array.guntur_gas);
+        String l6[] = getResources().getStringArray(R.array.guntur_entertainment);
 
         for(String title: heading_items)
         {

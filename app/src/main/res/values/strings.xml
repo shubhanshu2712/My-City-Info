@@ -14,15 +14,117 @@
     <string-array name="header_titles">
         <item>Hospitals</item>
         <item>Schools</item>
+        <item>Police</item>
+        <item>Fire</item>
+        <item>Gas</item>
+        <item>Entertainment</item>
     </string-array>
 
-    <string-array name="child_hospital">
+    <string-array name="agartala_hospital">
         <item>Igm Hospital</item>
         <item>ILS Hospital</item>
+        <item>GB Hospital</item>
     </string-array>
 
-    <string-array name="child_schools">
-        <item>BTVM</item>
-        <item>SKM</item>
+    <string-array name="agartala_schools">
+        <item>Bhavans Tripura Vidyamandir</item>
+        <item>Sri Krishna Mission</item>
+        <item>Holy Cross School</item>
+    </string-array>
+
+    <string-array name="agartala_police">
+        <item>ujgj</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="agartala_fire">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="agartala_gas">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="agartala_entertainment">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="guntur_hospital">
+        <item>Igm Hospital</item>
+        <item>ILS Hospital</item>
+        <item>GB Hospital</item>
+    </string-array>
+
+    <string-array name="guntur_schools">
+        <item>Bhavans Tripura Vidyamandir</item>
+        <item>Sri Krishna Mission</item>
+        <item>Holy Cross School</item>
+    </string-array>
+
+    <string-array name="guntur_police">
+        <item>ujgj</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="guntur_fire">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="guntur_gas">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="guntur_entertainment">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="lucknow_hospital">
+        <item>Igm Hospital</item>
+        <item>ILS Hospital</item>
+        <item>GB Hospital</item>
+    </string-array>
+
+    <string-array name="lucknow_schools">
+        <item>Bhavans Tripura Vidyamandir</item>
+        <item>Sri Krishna Mission</item>
+        <item>Holy Cross School</item>
+    </string-array>
+
+    <string-array name="lucknow_police">
+        <item>ujgj</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="lucknow_fire">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="lucknow_gas">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="lucknow_entertainment">
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 </resources>
