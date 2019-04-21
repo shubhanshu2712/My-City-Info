@@ -1,7 +1,10 @@
 package com.example.mycityinfo;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ExpandableListView;
 
 import java.util.ArrayList;
@@ -28,7 +31,7 @@ public class Guntur extends AppCompatActivity {
         List<String> L6 = new ArrayList<String>();
 
 
-        HashMap<String,List<String>> Childlist = new HashMap<String, List<String>>();
+        final HashMap<String,List<String>> Childlist = new HashMap<String, List<String>>();
         String heading_items[] = getResources().getStringArray(R.array.header_titles);
         String l1[] = getResources().getStringArray(R.array.guntur_hospital);
         String l2[] = getResources().getStringArray(R.array.guntur_schools);
@@ -75,5 +78,18 @@ public class Guntur extends AppCompatActivity {
 
         ListAdapter listAdapter = new ListAdapter(this,Headings,Childlist);
         expandableListView.setAdapter(listAdapter);
+        expandableListView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
+            @Override
+            public boolean onChildClick(ExpandableListView parent, View v, int groupPosition, int childPosition, long id) {
+                String loc = Childlist.get(Headings.get(groupPosition)).get(childPosition).toLowerCase().replaceAll("\\s+","");
+                final int location = getResources().getIdentifier(loc,"string",getPackageName());
+                Intent i = new Intent(Intent.ACTION_VIEW);
+                i.setData(Uri.parse(getString(location)));
+                startActivity(i);
+
+
+                return false;
+            }
+        });
     }
 }

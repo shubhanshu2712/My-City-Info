@@ -11,6 +11,8 @@
     <string name="enter_password">Enter Password</string>
     <string name="confirm_pasword">Confirm Pasword</string>
 
+    <!--Agartala-->
+
     <string name="newigmhospitalcomplex">https://www.google.com/maps/dir//New+IGM+Hospital+Complex,+Hospital+Road,+Dhaleswar,+Agartala,+Tripura+799001/@23.8309605,91.275675,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f413444ae9d5:0x1d8bd586ccd81c8c!2m2!1d91.275675!2d23.8309605</string>
     <string name="gbphospital">https://www.google.com/maps/dir//GBP+Hospital,+Indranagar,+Agartala,+Tripura+799006/@23.8323582,91.268926,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f40ae2eb1325:0x5fdb72001fe06bd1!2m2!1d91.2922655!2d23.8595729</string>
     <string name="ilshospitalsagartala">https://www.google.com/maps/dir//ILS+Hospitals,+Agartala,+Capital+Complex+Extension+P.O+-+New+Secretariat,+79+Tilla,+Agartala,+Tripura+799010/@23.867536,91.2720965,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f14d1a5ccdad:0x1d6e81bdd9eaa78c!2m2!1d91.289606!2d23.867536</string>
@@ -36,6 +38,33 @@
     <string name="tripuragovernmentmuseumujjayantapalace">https://www.google.com/maps/dir//Tripura+Government+Museum+Ujjayanta+Palace,+Palace+Compound,+Indranagar,+Agartala,+Tripura+799001/@23.8675093,91.2195658,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f46d4a7488bd:0xc4a3c3cb3de6967b!2m2!1d91.2827976!2d23.8373322</string>
     <string name="heritagepark">https://www.google.com/maps/dir//Heritage+Park,+Gorkhabasti,+Kunjaban,+Agartala,+Tripura+799006/@23.8565449,91.2827227,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f6aa2b103011:0x663bc97d62f4df5!2m2!1d91.2849114!2d23.8565449</string>
     <string name="childrenspark">https://www.google.com/maps/dir//Childrens+Park,+Palace+Compound,+Indranagar,+Indranagar,+Agartala,+Tripura+799001/@23.833506,91.2800128,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f40c3b83b1ff:0x875068fb2f9a64e9!2m2!1d91.2822015!2d23.833506</string>
+
+    <!-- Lucknow -->
+
+    <string name="apollomedicssuperspecialityhospital">https://www.google.com/maps/dir//Apollomedics+Super+Speciality+Hospitals,+Plot+no.+KBC,+31,+Kanpur+-+Lucknow+Rd,+Sector+B,+Bargawan,+LDA+Colony,+Lucknow,+Uttar+Pradesh+226012/@26.798134,80.8664908,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfea86ebf9adb:0x6d57f1b998be6a85!2m2!1d80.9015105!2d26.7980617</string>
+    <string name="saharahospital">https://www.google.com/maps/dir//Sahara+Hospital,+Viraj+Khand+-+1,+Viraj+Khand,+Gomti+Nagar,+Lucknow,+Uttar+Pradesh+226010/@26.8500448,81.0212792,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399be2fa53c0526d:0xabea3590695a83fa!2m2!1d81.0234679!2d26.85004</string>
+    <string name="rammanoharlohiyahospital">4.	https://www.google.com/maps/dir//Ram+Manohar+Lohiya+Hospital,+A-160,+Vimal+Nagar,+Harihar+Nagar,+Kamta,+Lucknow,+Uttar+Pradesh+226028/@26.8867282,81.0166879,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399be29d5d581e07:0xbc35fedcf08a1b9e!2m2!1d81.0188766!2d26.8867234</string>
+
+    <string name="lamartinierecollege">https://www.google.com/maps/dir//La+Martini%C3%A8re+College,+La+Martiniere+Rd,+Martin+Purva,+Lucknow,+Uttar+Pradesh+226001/@26.8396128,80.9608678,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfd1f9bd6e96d:0x9f1aa929f720168b!2m2!1d80.9630565!2d26.839608</string>
+    <string name="citymontessorischool">https://www.google.com/maps/dir//City+Montessori+School,+Kanpur+Road+Campus,+Quality+Building,+Kanpur+-+Lucknow+Rd,+Hind+Nagar,+Sector+D,+LDA+Colony,+Lucknow,+Uttar+Pradesh+226012/@26.7893964,80.8768638,14z/data=!4m15!1m6!3m5!1s0x399bfeab8ee9ba0d:0xc8c18b2b1f3993e1!2sCity+Montessori+School,+Kanpur+Road+Campus!8m2!3d26.7893964!4d80.8943733!4m7!1m0!1m5!1m1!1s0x399bfeab8ee9ba0d:0xc8c18b2b1f3993e1!2m2!1d80.8943733!2d26.7893964</string>
+    <string name="delhipublicschool">https://www.google.com/maps/dir//Delhi+Public+School,+Eldeco,+Sector-II,+Raksha+Kand,+Udyan-II,+Eldeco+Colony,+Raibareilly+Rd,+Eldeco+II,+Lucknow,+Uttar+Pradesh+226025/@26.78111,80.9498933,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfba048fe3bad:0x9df033b0db9065e8!2m2!1d80.9406486!2d26.7639463</string>
+
+    <string name="policestationcantt">https://www.google.com/maps/dir//Police+Station+Cantt+Lucknow,+100,+Nehru+Rd,+Sadar+Bazaar,+Cantonment,+Lucknow,+Uttar+Pradesh+226002/@26.7813992,80.9498932,13z/data=!4m15!1m6!3m5!1s0x399bfcf9ceb2af31:0xad1b3d0369c102c2!2sPolice+Station+Cantt+Lucknow!8m2!3d26.8254483!4d80.9460456!4m7!1m0!1m5!1m1!1s0x399bfcf9ceb2af31:0xad1b3d0369c102c2!2m2!1d80.9460456!2d26.8254483</string>
+    <string name="policestationalambagh">https://www.google.com/maps/dir//Police+Station+Alambagh,+NEAR,+Railway+Colony,+Alambagh,+Lucknow,+Uttar+Pradesh+226005/@26.826488,80.8743673,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfc2e1f341a11:0xab2071d2c7cf58d6!2m2!1d80.9093862!2d26.826488</string>
+    <string name="ashiyanapolicestation">https://www.google.com/maps/dir//Ashiyana+Police+Station,+Quila+road,+Near,+Power+House+Chauraha,+Sector+K,+Ashiyana,+Lucknow,+Uttar+Pradesh+226012/@26.7815439,80.9498932,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfbf62fa76301:0x29d0c70b350a4b53!2m2!1d80.9129534!2d26.7865955</string>
+
+    <string name="alambaghfirestation">https://www.google.com/maps/dir//Alambagh+Fire+Department,+Chander+Nagar,+Alambagh,+Lucknow,+Uttar+Pradesh+226005/@26.7823291,80.8448243,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfc23d4b014b9:0x922e4657c00ed4f9!2m2!1d80.904479!2d26.812964</string>
+    <string name="firestationhazratganj">https://www.google.com/maps/dir//Fire+Station+Hazratganj,+Capper+Rd,+DM+Compound+Colony,+Kaiserbagh+Officers+Colony,+Lalbagh,+Lucknow,+Uttar+Pradesh+226001/@26.7832796,80.8448229,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfda65e28704b:0x3e27b77c28a04f38!2m2!1d80.938752!2d26.849939</string>
+    <string name="sarojninagarfirestation">https://www.google.com/maps/dir//Sarojni+Nagar+Fire+Station,+Kanpur+-+Lucknow+Rd,+Sarojini+Nagar,+Lucknow,+Uttar+Pradesh+226008/@26.7837548,80.8448222,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bf904f8c226bd:0xedf3784e065ddb83!2m2!1d80.8694678!2d26.7591218</string>
+
+    <string name="hppetrolpump">https://www.google.com/maps/dir//HP+PETROL+PUMP+-+MAHNA+SERVICE+STATION,+HP+Dealers+PO+Lucknow,+Sardari+Khera,+Sujanpura,+Alambagh,+Lucknow,+Uttar+Pradesh+226005/@26.7847053,80.8448208,11z/data=!4m15!1m6!3m5!1s0x0:0xd62548ae7b0a0195!2sHP+PETROL+PUMP+-+MAHNA+SERVICE+STATION!8m2!3d26.8163727!4d80.9056377!4m7!1m0!1m5!1m1!1s0x399bfc240baf9d77:0xd62548ae7b0a0195!2m2!1d80.905626!2d26.816381</string>
+    <string name="indianoilpetrolpump">https://www.google.com/maps/dir//Indian+Oil+Petrol+Pump,+Aishbagh+Rd,+Rajendra+Nagar,+Lucknow,+Uttar+Pradesh+226004/@26.7851806,80.8448201,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfdcbe2b81569:0x3e7ea852c99b73f9!2m2!1d80.915983!2d26.8398554</string>
+    <string name="hppetrolpump2">https://www.google.com/maps/dir//HP+Petrol+Pump,+CP+-2,+Railway+Station+Rd,+Vijayant+Khand,+Kamta,+Lucknow,+Uttar+Pradesh+226010/@26.7856558,80.8448194,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399be28fcf9b6ea1:0x9d10f3309c28fc25!2m2!1d81.0210545!2d26.873712</string>
+
+    <string name="phoneixunitedmall">https://www.google.com/maps/dir//Phoenix+United+Mall,+Kanpur+Road,+Sector+B,+Bargawan,+Alambagh,+Lucknow,+Uttar+Pradesh+226005/@26.8190011,80.9136297,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x399bfea7c4740451:0xb38f28aef5330e4f!2m2!1d80.8969356!2d26.7986672</string>
+    <string name="saharaganjmall">https://www.google.com/maps/place/Sahara+Ganj+Mall,+Lucknow/@26.8553181,80.9437301,17z/data=!3m1!4b1!4m5!3m4!1s0x399bfd09f2c43d8f:0x855509b5af66b6a9!8m2!3d26.8553133!4d80.9459188</string>
+    <string name="wavecinemas">https://www.google.com/maps/place/Wave+Cinemas/@26.8695959,80.995142,17z/data=!3m1!4b1!4m5!3m4!1s0x399be2b095dd9395:0x4d56befa9cab48f0!8m2!3d26.8695911!4d80.9973307</string>
+    <string name="cinepolis">https://www.google.com/maps/place/CINEPOLIS/@26.8623056,81.0082161,17z/data=!3m1!4b1!4m5!3m4!1s0x399be2ea95664113:0x2cfa6139dc4e0ebe!8m2!3d26.8623008!4d81.0104048</string>
 
 
     <string-array name="header_titles">
@@ -122,38 +151,39 @@
     </string-array>
 
     <string-array name="lucknow_hospital">
-        <item>Igm Hospital</item>
-        <item>ILS Hospital</item>
-        <item>GB Hospital</item>
+        <item>Apollomedics Super Speciality hospital</item>
+        <item>Sahara Hospital</item>
+        <item>Ram Manohar Lohiya Hospital</item>
     </string-array>
 
     <string-array name="lucknow_schools">
-        <item>Bhavans Tripura Vidyamandir</item>
-        <item>Sri Krishna Mission</item>
-        <item>Holy Cross School</item>
+        <item>La martiniere College</item>
+        <item>City Montessori School</item>
+        <item>Delhi Public School</item>
     </string-array>
 
     <string-array name="lucknow_police">
-        <item>ujgj</item>
-        <item></item>
-        <item></item>
+        <item>Police Station Cantt</item>
+        <item>Police Station Alambagh</item>
+        <item>Ashiyana Police Station</item>
     </string-array>
 
     <string-array name="lucknow_fire">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Alambagh Fire Station</item>
+        <item>Fire Station Hazratganj</item>
+        <item>Sarojni Nagar Fire Station</item>
     </string-array>
 
     <string-array name="lucknow_gas">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Hp Petrol Pump</item>
+        <item>Indian oil Petrol Pump</item>
+        <item>Hp Petrol Pump2</item>
     </string-array>
 
     <string-array name="lucknow_entertainment">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Phoneix United Mall</item>
+        <item>Sahara Ganj Mall</item>
+        <item>Wave Cinemas</item>
+        <item>Cinepolis</item>
     </string-array>
 </resources>
