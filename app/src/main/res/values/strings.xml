@@ -11,6 +11,33 @@
     <string name="enter_password">Enter Password</string>
     <string name="confirm_pasword">Confirm Pasword</string>
 
+    <string name="newigmhospitalcomplex">https://www.google.com/maps/dir//New+IGM+Hospital+Complex,+Hospital+Road,+Dhaleswar,+Agartala,+Tripura+799001/@23.8309605,91.275675,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f413444ae9d5:0x1d8bd586ccd81c8c!2m2!1d91.275675!2d23.8309605</string>
+    <string name="gbphospital">https://www.google.com/maps/dir//GBP+Hospital,+Indranagar,+Agartala,+Tripura+799006/@23.8323582,91.268926,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f40ae2eb1325:0x5fdb72001fe06bd1!2m2!1d91.2922655!2d23.8595729</string>
+    <string name="ilshospitalsagartala">https://www.google.com/maps/dir//ILS+Hospitals,+Agartala,+Capital+Complex+Extension+P.O+-+New+Secretariat,+79+Tilla,+Agartala,+Tripura+799010/@23.867536,91.2720965,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f14d1a5ccdad:0x1d6e81bdd9eaa78c!2m2!1d91.289606!2d23.867536</string>
+
+    <string name="bharatiyavidyabhavan">https://www.google.com/maps/dir//Bharatiya+Vidya+Bhavan,+Bimangarh,+Narsingarh,+Agartala,+Tripura+799015/@23.9040175,91.2466619,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f7aa8f561a37:0x68e3589eb19acbf3!2m2!1d91.2488506!2d23.9040175</string>
+    <string name="srikrishnamissionschool">https://www.google.com/maps/dir//Sri+Krishna+Mission+School,+Bholananda+Palli,+79+Tilla,+Agartala,+Tripura+799010/@23.867532,91.2720965,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f6af16817653:0x534e85641ba1f6af!2m2!1d91.2822112!2d23.8609103</string>
+    <string name="holycrossschool">https://www.google.com/maps/dir//Holy+Cross+School,+Durjoynagar,+Agartala,+Tripura+799009/@23.8675301,91.2720965,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f6c7e30625ff:0xfcc29efb82a57a98!2m2!1d91.2790596!2d23.8775934</string>
+
+    <string name="westpolicestation">https://www.google.com/maps/dir//West+Police+Station,+Agartala,+Agartala+West,+Hari+Ganga+Basak+Road,+Post+Office+Chowmohani,+Dhaleswar,+Agartala,+Tripura+799001/@23.8283804,91.2665295,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f412b58b9d27:0xc38ccd28854eca22!2m2!1d91.2783183!2d23.8296751</string>
+    <string name="agartalaeastpoilcestation">https://www.google.com/maps/dir//Agartala+(East)+Police+Station,+Indranagar,+Agartala,+Tripura+799001/@23.8323771,91.2820583,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f40b06cf7107:0xad7b520d84c061f2!2m2!1d91.2864357!2d23.8323771</string>
+    <string name="policeheadquaters">https://www.google.com/maps/dir//Police+Headquarters,+Akhaura+Rd,+Jay+Nagar,+Agartala,+Tripura+799001/@23.8283806,91.2665295,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f43e49de7fd9:0x17c15a3cee019642!2m2!1d91.2686527!2d23.8331169</string>
+
+    <string name="directorateoffireservice">https://www.google.com/maps/dir//Directorate+of+Fire+Service,+First+Floor,+Fire+Brigade+Choumohani,+Jay+Nagar,+Agartala,+Tripura+799001/@23.8323741,91.2689261,14z/data=!4m15!1m6!3m5!1s0x3753f43e32872d6f:0xcc352c66252b06dd!2sDirectorate+of+Fire+Service!8m2!3d23.8325936!4d91.2693085!4m7!1m0!1m5!1m1!1s0x3753f43e32872d6f:0xcc352c66252b06dd!2m2!1d91.2693085!2d23.8325936</string>
+    <string name="kunjabanfirestsation">https://www.google.com/maps/dir//Kunjaban+Fire+Station,+Kunjaban,+Agartala,+Tripura+799006/@23.8323701,91.2689261,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f1549632cd99:0xb0e23b181edbeb8b!2m2!1d91.2905556!2d23.8581118</string>
+    <string name="akahurafirestation">https://www.google.com/maps/dir//Akhaura+Fire+Station,+Akhaura,+Bangladesh/@23.8713906,91.1899217,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x375409e484b8073b:0xd3dbe2b720444a26!2m2!1d91.2074312!2d23.8713906</string>
+
+    <string name="jyotsnafillingstation">https://www.google.com/maps/dir//Jyotsna+Filling+Station,+Lakshmi+Narayan+Bari+Road,+Ganaraj+Chowmuhani,+Indranagar,+Agartala,+Tripura+799001/@23.8323701,91.2689261,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f40a3036b509:0x93f17ec7a22c9f3f!2m2!1d91.2870925!2d23.8345178</string>
+    <string name="indianoilpetrolpumpboc">https://www.google.com/maps/dir//Indian+Oil+Petrol+Pump+BOC,+Abhay+Nagar,+Agartala,+Tripura+799005/@23.8323681,91.2689261,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f40424d650d7:0x645b53aefe1b3b30!2m2!1d91.2837133!2d23.8451715</string>
+    <string name="bordowalipetrolpump">https://www.google.com/maps/dir//Bordowali+Petrol+Pump,+Bardowali,+Agartala,+Tripura+799003/@23.8323662,91.2689261,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f46a2a62e2a1:0xf7f0a5fda35a5312!2m2!1d91.2721221!2d23.82332</string>
+
+    <string name="rupasicinema">https://www.google.com/maps/dir//Rupasi+Cinema,+Post+Office+Chowmohani,+Mantribari+Rd+Ext,+Dhaleswar,+Agartala,+Tripura+799001/@23.8285376,91.2614912,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f46d5adbcb03:0xd0aafc092412d493!2m2!1d91.2790007!2d23.8285376</string>
+    <string name="citycentreagartala">https://www.google.com/maps/dir//City+Centre+Agartala,+Hari+Ganga+Basak+Rd,+Melarmath,+Dhaleswar,+Agartala,+Tripura+799001/@23.8290287,91.2725419,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f5b08e542941:0xd623e4343b226a5c!2m2!1d91.2747306!2d23.8290287</string>
+    <string name="tripuragovernmentmuseumujjayantapalace">https://www.google.com/maps/dir//Tripura+Government+Museum+Ujjayanta+Palace,+Palace+Compound,+Indranagar,+Agartala,+Tripura+799001/@23.8675093,91.2195658,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f46d4a7488bd:0xc4a3c3cb3de6967b!2m2!1d91.2827976!2d23.8373322</string>
+    <string name="heritagepark">https://www.google.com/maps/dir//Heritage+Park,+Gorkhabasti,+Kunjaban,+Agartala,+Tripura+799006/@23.8565449,91.2827227,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f6aa2b103011:0x663bc97d62f4df5!2m2!1d91.2849114!2d23.8565449</string>
+    <string name="childrenspark">https://www.google.com/maps/dir//Childrens+Park,+Palace+Compound,+Indranagar,+Indranagar,+Agartala,+Tripura+799001/@23.833506,91.2800128,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3753f40c3b83b1ff:0x875068fb2f9a64e9!2m2!1d91.2822015!2d23.833506</string>
+
+
     <string-array name="header_titles">
         <item>Hospitals</item>
         <item>Schools</item>
@@ -21,55 +48,57 @@
     </string-array>
 
     <string-array name="agartala_hospital">
-        <item>Igm Hospital</item>
-        <item>ILS Hospital</item>
-        <item>GB Hospital</item>
+        <item>New IGM Hospital Complex</item>
+        <item>GBP Hospital</item>
+        <item>ILS Hospitals Agartala</item>
     </string-array>
 
     <string-array name="agartala_schools">
-        <item>Bhavans Tripura Vidyamandir</item>
-        <item>Sri Krishna Mission</item>
+        <item>Bharatiya Vidya Bhavan</item>
+        <item>Sri Krishna Mission School</item>
         <item>Holy Cross School</item>
     </string-array>
 
     <string-array name="agartala_police">
-        <item>ujgj</item>
-        <item></item>
-        <item></item>
+        <item>West Police Station</item>
+        <item>Agartala East Police Station</item>
+        <item>Police Headquaters</item>
     </string-array>
 
     <string-array name="agartala_fire">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Directorate of Fire Service</item>
+        <item>Kunjaban Fire Station</item>
+        <item>Akhaura Fire Station</item>
     </string-array>
 
     <string-array name="agartala_gas">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Jyotsna Filling Station</item>
+        <item>Indian Oil Petrol Pump BOC</item>
+        <item>Bordowali Petrol Pump</item>
     </string-array>
 
     <string-array name="agartala_entertainment">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Rupasi Cinema</item>
+        <item>City Centre Agartala</item>
+        <item>Tripura Government Museum Ujjayanta Palace</item>
+        <item>Heritage Park</item>
+        <item>Childrens Park</item>
     </string-array>
 
     <string-array name="guntur_hospital">
-        <item>Igm Hospital</item>
-        <item>ILS Hospital</item>
-        <item>GB Hospital</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 
     <string-array name="guntur_schools">
-        <item>Bhavans Tripura Vidyamandir</item>
-        <item>Sri Krishna Mission</item>
-        <item>Holy Cross School</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 
     <string-array name="guntur_police">
-        <item>ujgj</item>
+        <item></item>
         <item></item>
         <item></item>
     </string-array>
