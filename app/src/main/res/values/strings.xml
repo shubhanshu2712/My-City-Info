@@ -66,6 +66,30 @@
     <string name="wavecinemas">https://www.google.com/maps/place/Wave+Cinemas/@26.8695959,80.995142,17z/data=!3m1!4b1!4m5!3m4!1s0x399be2b095dd9395:0x4d56befa9cab48f0!8m2!3d26.8695911!4d80.9973307</string>
     <string name="cinepolis">https://www.google.com/maps/place/CINEPOLIS/@26.8623056,81.0082161,17z/data=!3m1!4b1!4m5!3m4!1s0x399be2ea95664113:0x2cfa6139dc4e0ebe!8m2!3d26.8623008!4d81.0104048</string>
 
+    <string name="venkateswarapolyclinicandhospital">https://www.google.com/maps/dir//Venkateswara+Poly+Clinic+%26+Hospital,+522101,+13th+Ward,+Satyannarayana+Puram,+Bapatla,+Andhra+Pradesh+522101/@15.9063234,80.4590594,15z/data=!4m15!1m6!3m5!1s0x3a4a3f9b65c56ee1:0x2f6f0a9501065ab0!2sVenkateswara+Poly+Clinic+%26+Hospital!8m2!3d15.9063234!4d80.4678141!4m7!1m0!1m5!1m1!1s0x3a4a3f9b65c56ee1:0x2f6f0a9501065ab0!2m2!1d80.4678141!2d15.9063234</string>
+    <string name="areahospital">https://www.google.com/maps/dir//Area+Hospital,+GOVT+Hospital+Rd,+13th+Ward,+Satyannarayana+Puram,+Bapatla,+Andhra+Pradesh+522101/@15.9076006,80.461357,15z/data=!4m15!1m6!3m5!1s0x3a4a3f9bbf47fc9b:0xa55a7b2bc634f53d!2sArea+Hospital!8m2!3d15.9076006!4d80.4701117!4m7!1m0!1m5!1m1!1s0x3a4a3f9bbf47fc9b:0xa55a7b2bc634f53d!2m2!1d80.4701117!2d15.9076006</string>
+    <string name="aroghyahospital">https://www.google.com/maps/dir//Aroghya+Hospital,+2nd+Ln,+Patel+Nagar,+Bapatla,+Andhra+Pradesh+522101/@15.9069241,80.4690355,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a3fa20ff0db69:0x5ba3c6ed915225ed!2m2!1d80.4777902!2d15.9069241</string>
+
+    <string name="srichaitanyaschool">https://www.google.com/maps/dir//Sri+Chaitanya+School,+Door+No.+8-3-8,+Opposite+MAA+Cable+Office,+Bhima+Vari+Palem,+Maddiboinavaripalem,+Bapatla,+Guntur+District,+Andhra+Pradesh+522101/@15.9024453,80.4583007,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a3f9dafc7cd05:0xddb8a5bc9549e951!2m2!1d80.469432!2d15.902343</string>
+    <string name="avvhighschool">https://www.google.com/maps/dir//A.V.V.+High+School,+Sivalayam+Street,+Near+Railway+Station,+13th+Ward,+Satyannarayana+Puram,+Bapatla,+Andhra+Pradesh+522101/@15.9024862,80.4583007,15z/data=!4m15!1m6!3m5!1s0x3a4a3f9b789f79f7:0x11e0c69481e0b67b!2sA.V.V.+High+School!8m2!3d15.9062237!4d80.4687193!4m7!1m0!1m5!1m1!1s0x3a4a3f9b789f79f7:0x11e0c69481e0b67b!2m2!1d80.4687193!2d15.9062237</string>
+    <string name="salvationarmyhighschool">https://www.google.com/maps/dir//Salvation+Army+High+School,+Bapatla+-+Jammulapalem+Flyover,+Christ+Nagar,+Bapatla,+Andhra+Pradesh+522101/@15.9025271,80.4583007,15z/data=!4m15!1m6!3m5!1s0x3a4a3f8454b7a697:0x50a506ea9e021c91!2sSalvation+Army+High+School!8m2!3d15.9089767!4d80.4634783!4m7!1m0!1m5!1m1!1s0x3a4a3f8454b7a697:0x50a506ea9e021c91!2m2!1d80.4634783!2d15.9089767</string>
+
+    <string name="bapatlaruralpolicestation">https://www.google.com/maps/dir//Bapatla+Rural+Police+Station,+13th+Ward,+Satyannarayana+Puram,+Bapatla,+Andhra+Pradesh+522101/@15.9070059,80.4690355,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a3f9bfc5bc87b:0x5b7a424a325978c8!2m2!1d80.4713559!2d15.9064034</string>
+    <string name="kothapetpolicestation">https://www.google.com/maps/dir//Kothapet+Police+Station(2+Town),+Chirala,+2+Town+Police+Station,+College+Rd,+ILTD+Colony,+Kothapeta,+Chirala,+Andhra+Pradesh+523157/@15.8279049,80.3573399,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a46a2f1f60d99:0x99e937f40aff7241!2m2!1d80.3748494!2d15.8279049</string>
+    <string name="ipurupalempolicestation">https://www.google.com/maps/dir//Ipurupalem+Police+Station,+NH216,+Ipurupalem,+Ipuru+Palem+Rural,+Andhra+Pradesh+523166/@15.8543775,80.3750443,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a41346b6fcfd7:0x2b8444b8fd2b2b14!2m2!1d80.3925538!2d15.8543775</string>
+
+    <string name="fireengineoffice">https://www.google.com/maps/dir//Fire+engine+office,+Railpet+Street%2FUppara+Pallem+Rd,+Yadava+Palam,+Satyannarayana+Puram,+Bapatla,+Andhra+Pradesh+522101/@15.8744756,80.3875161,12.69z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a3f14a3051f8d:0xca0cef815b95712b!2m2!1d80.4732445!2d15.9068699</string>
+    <string name="fireservicedepartment">https://www.google.com/maps/dir//Andhra+Pradesh+Fire+Service+Department,+Station+Road,+Paparajuthota,+Chirala,+Andhra+Pradesh+523155/@15.8744756,80.3875161,12.69z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a4416e4010241:0x1f4aa600a6dec51e!2m2!1d80.351585!2d15.829028</string>
+
+    <string name="indianoilpetrolbunk">https://www.google.com/maps/dir//indian+oil+Petrol+Bunk,+GBC+Rd,+Satyannarayana+Puram,+Bapatla,+Andhra+Pradesh+522101/@15.911507,80.4382773,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a3fa2f8376af7:0xdad57e16d1f823a1!2m2!1d80.4794495!2d15.9093769</string>
+    <string name="reliancepetroleum">https://www.google.com/maps/dir//Reliance+Petroleum,+Malleswari,+Bapatla,+Andhra+Pradesh+522102/@15.9116665,80.4382772,13z/data=!4m15!1m6!3m5!1s0x3a4a41bb687855ef:0x8cddc286951a82e9!2sReliance+Petroleum!8m2!3d15.8957468!4d80.4461475!4m7!1m0!1m5!1m1!1s0x3a4a41bb687855ef:0x8cddc286951a82e9!2m2!1d80.4461475!2d15.8957468</string>
+    <string name="indianoilgasstation">https://www.google.com/maps/dir//Indian+Oil+Gas+Station,+Karanchedu+Rd,+Srinivas+Nagar,+Uzilipet,+Chirala,+Andhra+Pradesh+523155/@15.838682,80.3241905,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a4404944eb209:0x13d1b6dbd00f3734!2m2!1d80.3592094!2d15.838682</string>
+
+    <string name="suryalankabeach">https://www.google.com/maps/dir//Surya+Lanka+Beach,+Andhra+Pradesh+522101/@15.8448977,80.5047385,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a39248cb229c3:0x96f9ee9acc8f8c43!2m2!1d80.5337743!2d15.8487128</string>
+    <string name="seabreezebeachresorts">https://www.google.com/maps/dir//Seabreeze+Beach+Resorts,+Ramapuram+Beach+Rd,+Chirala,+Andhra+Pradesh+523155/@15.7737834,80.3749037,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a4428cebeb715:0xc91c3f822e8b136c!2m2!1d80.3770924!2d15.7737782</string>
+    <string name="vijayakrishnatheatre">https://www.google.com/maps/dir//Vijaya+Krishna+Theatre,+13th+Ward,+Satyannarayana+Puram,+Bapatla,+Andhra+Pradesh+522101/@15.9065841,80.4661677,17z/data=!4m15!1m6!3m5!1s0x3a4a3f9b7aa363db:0x9ce879816d411da3!2sVijaya+Krishna+Theatre!8m2!3d15.906579!4d80.4683564!4m7!1m0!1m5!1m1!1s0x3a4a3f9b7aa363db:0x9ce879816d411da3!2m2!1d80.4683564!2d15.906579</string>
+    <string name="haritharesortbarandrestaurant">https://www.google.com/maps/dir//Haritha+Resort+Bar+%26+Restaurant,+Surya+Lanka+Beach+Road,+Maddiboinavaripalem,+Bapatla,+Andhra+Pradesh+522101/@15.8398763,80.5058108,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a4a3924ee0e4f05:0xdc3c35b458c2500f!2m2!1d80.5079995!2d15.8398712</string>
+
 
     <string-array name="header_titles">
         <item>Hospitals</item>
@@ -115,39 +139,39 @@
     </string-array>
 
     <string-array name="guntur_hospital">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Venkateswara Poly Clinic and Hospital</item>
+        <item>Area Hospital</item>
+        <item>Aroghya Hospital</item>
     </string-array>
 
     <string-array name="guntur_schools">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Sri Chaitanya School</item>
+        <item>A.V.V High School</item>
+        <item>Salvation Army High School</item>
     </string-array>
 
     <string-array name="guntur_police">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Bapatla Rural Police Station</item>
+        <item>Kothapet Police Station</item>
+        <item>Ipurupalem Police Station</item>
     </string-array>
 
     <string-array name="guntur_fire">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Fire engine office</item>
+        <item>Fire Service Department</item>
     </string-array>
 
     <string-array name="guntur_gas">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Indian oil Petrol Bunk</item>
+        <item>Reliance Petroleum</item>
+        <item>Indian Oil Gas Station</item>
     </string-array>
 
     <string-array name="guntur_entertainment">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Surya Lanka Beach</item>
+        <item>Seabreeze Beach Resorts</item>
+        <item>Vijaya Krishna Theatre</item>
+        <item>Haritha Resort Bar and Restaurant</item>
     </string-array>
 
     <string-array name="lucknow_hospital">
